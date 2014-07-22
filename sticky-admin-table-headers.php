@@ -21,7 +21,7 @@ add_action('admin_head', 'wp_admin_edit_screen_table_sticky_header_css_admin_hea
 function wp_admin_edit_screen_table_sticky_header_css_admin_head() {
 	?>
 <style type="text/css">
-#tableFloatingHeaderOriginal {
+.tableFloatingHeaderOriginal {
 	background-color: #ffffff;
 }
 </style>
