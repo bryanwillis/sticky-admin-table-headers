@@ -1,0 +1,24 @@
+=== Sticky Admin Table Headers ===
+Contributors: codecandid
+Tags: admin, backend, button, page, Post, publish, save, scrollbar, scrolling, settings, sticky widget, sticky box, update, user experience, ux, wp-admin
+Requires at least: 3.0.1
+Tested up to: 3.9.1
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+A WordPress plugin that alters the admin tables to fix the headers on the top of the screen when scrolling
+
+== Description ==
+
+== Installation ==
+
+1. Upload folder `floating-publish-button` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial Release
